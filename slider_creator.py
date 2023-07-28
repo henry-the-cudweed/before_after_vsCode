@@ -66,6 +66,7 @@ print(path)
 just_photo_before = os.path.basename(before_url)
 just_photo_after = os.path.basename(after_url)
 
+
 ##combine photos to new path 
 before_url_new_folder = os.path.join(path, just_photo_before )
 after_url_new_folder = os.path.join(path, just_photo_after)
@@ -74,9 +75,7 @@ after_url_new_folder = os.path.join(path, just_photo_after)
 shutil.copy(before_url, before_url_new_folder)
 shutil.copy(after_url, after_url_new_folder)
 
-before_url_new_folder = before_url_new_folder.replace("\\", "/")
-after_url_new_folder = after_url_new_folder.replace("\\", "/")
-print(after_url_new_folder)
+
 
 ### RegEx Replacement
 soup_string1 = re.sub(beforePattern, just_photo_after, soup_string)
