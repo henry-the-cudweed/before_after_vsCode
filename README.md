@@ -1,5 +1,5 @@
 # compare_pics
-create a simple web page featuring before/after progress at a restoration worksite.
+Create a simple web page featuring before/after progress at a restoration worksite.
 
 It may not work on a Mac or on Linux, this program has only been tested on Windows. 
 
