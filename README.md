@@ -7,6 +7,7 @@ Run Slider_Creator.py with Python to launch a simple GUI
 <img width="447" alt="before_after_Gui" src="https://github.com/henry-the-cudweed/compare_pics/assets/88332473/f2d3807d-2de8-4280-b35b-6088863c481e">
 
 The program creates a folder with all the necessary files
+
 <img width="146" alt="before_after_aslider_folder" src="https://github.com/henry-the-cudweed/compare_pics/assets/88332473/ccdbea06-8c52-464e-9e75-3e38f5c8000e">
 
 Open slider.html to see the slider, you can easily host the folder on a static web hosting service such as Neocities.
