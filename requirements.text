@@ -1,0 +1,8 @@
+###### Requirements without Version Specifiers ######
+bs4
+regex
+PySimpleGUI
+os
+PIL 
+shutil 
+pathlib
